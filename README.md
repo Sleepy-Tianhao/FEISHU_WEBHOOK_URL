@@ -1514,7 +1514,6 @@ GitHub 一键 Fork 即可使用，无需编程基础。
    1. **查看生成的 URL**：
       - 在 "Webhook URLs for Your Workspace" 区域
       - 会看到刚刚生成的 Webhook URL
-      - 格式如：`https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX`
 
    2. **复制 URL**：
       - 点击 URL 右侧的 **"Copy"** 按钮
